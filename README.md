@@ -129,11 +129,19 @@ Since this issue is departmental but not company-wide:
 
 ### Resolution
 
+<p>
+<img width="853" height="497" alt="Screenshot RD49" src="https://github.com/user-attachments/assets/f24e62b7-d05e-4fba-9208-b62f2ba697d7" />
+</p>
+
+<p>
+<img width="853" height="497" alt="Screenshot RD50" src="https://github.com/user-attachments/assets/dbe02965-57c3-409d-870d-1d3554b09ff7" />
+</p>
+
 John:
 
-* Connects remotely to the user’s device
-* Identifies corrupted installation
-* Reinstalls approved software version
-* Verifies application functionality
-* Documents actions taken
-* Closes the ticket
+- Connects remotely to the user’s device
+- Identifies corrupted installation
+- Reinstalls approved software version
+- Verifies application functionality
+- Documents actions taken
+- Closes the ticket
