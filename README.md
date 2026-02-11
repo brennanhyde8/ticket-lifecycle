@@ -117,11 +117,15 @@ Initial state:
 
 ### Ticket Configuration
 
+<p>
+<img width="853" height="497" alt="Screenshot RD48" src="https://github.com/user-attachments/assets/60978612-565d-4c8e-822c-10a076c96a9d" />
+</p>
+
 Since this issue is departmental but not company-wide:
 
-* **SLA:** Sev-B (4 hours, 24/7)
-* **Department:** Support
-* **Assigned To:** John
+- "SLA:" Sev-B (4 hours, 24/7)
+- "Department:" Support
+- "Assigned To:" John
 
 ### Resolution
 
