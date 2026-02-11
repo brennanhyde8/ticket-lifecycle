@@ -82,7 +82,7 @@ This demonstrates role-based security and department segmentation.
 <img width="853" height="497" alt="Screenshot RD45" src="https://github.com/user-attachments/assets/083b0bcf-4a91-4b10-9c03-13565f84c290" />
 </p>
 
-A qualified agent within the Online Banking department:
+A qualified agent within the Online Banking department (Jane):
 
 - Investigates service outage
 - Coordinates with infrastructure teams
