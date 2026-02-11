@@ -145,3 +145,22 @@ John:
 - Verifies application functionality
 - Documents actions taken
 - Closes the ticket
+
+---
+
+# Conclusion
+
+This lab demonstrates the full lifecycle of incident management using **osTicket**, from initial ticket creation to final resolution.
+
+Through these scenarios, we practiced:
+
+* Creating tickets from an end-user perspective
+* Reviewing and configuring ticket properties
+* Assigning SLA plans based on severity
+* Routing tickets to the appropriate department
+* Enforcing role-based access control
+* Resolving and documenting incidents properly
+
+The Online Banking outage highlighted how critical incidents require rapid escalation and strict SLA adherence. The Adobe upgrade issue demonstrated structured troubleshooting within a standard support workflow.
+
+
