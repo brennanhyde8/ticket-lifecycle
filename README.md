@@ -3,8 +3,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
+This repository demonstrates how tickets move through a help desk environment using osTicket.
+You’ll simulate ticket creation, property assignment, department restrictions, SLA escalation, and final resolution — just like in a real IT support team.
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
