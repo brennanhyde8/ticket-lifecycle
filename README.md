@@ -50,10 +50,14 @@ Upon viewing the ticket, default settings appear:
 
 ### Ticket Configuration
 
+<p>
+<img width="853" height="497" alt="Screenshot RD42" src="https://github.com/user-attachments/assets/944c0598-4290-4ae4-aa8d-383dd6b94a47" />
+</p>
+
 Because this issue impacts customers company-wide, the ticket is updated to:
 
-* **SLA:** Sev-A (1 hour, 24/7)
-* **Department:** Online Banking
+- "SLA:" Sev-A (1 hour, 24/7)
+- "Department:" Online Banking
 
 ### Access Control Observation
 
