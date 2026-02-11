@@ -25,7 +25,7 @@ You’ll simulate ticket creation, property assignment, department restrictions,
 
 ---
 
-# 🏦 Scenario 1: Online Banking System Outage
+# Scenario 1: Online Banking System Outage
 
 ### End-User Submission
 
@@ -37,12 +37,16 @@ A ticket is submitted reporting that the entire mobile and online banking platfo
 
 ### Initial Agent Review (John)
 
+<p>
+<img width="853" height="497" alt="Screenshot RD41" src="https://github.com/user-attachments/assets/cdd23d7f-1880-4b03-b1cd-977d56eb4aca" />
+</p>
+
 Upon viewing the ticket, default settings appear:
 
-* Priority: Normal
-* Department: Unassigned
-* SLA: None
-* Assigned To: Unassigned
+- Priority: Normal
+- Department: Unassigned
+- SLA: None
+- Assigned To: Unassigned
 
 ### Ticket Configuration
 
