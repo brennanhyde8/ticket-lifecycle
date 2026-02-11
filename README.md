@@ -104,12 +104,16 @@ Accounting reports that Adobe crashes after a recent update.
 
 ### Agent Review (John)
 
+<p>
+<img width="853" height="497" alt="Screenshot RD47" src="https://github.com/user-attachments/assets/2382fd7e-4992-43dd-8448-10a0ad284f7e" />
+</p>
+
 Initial state:
 
-* Priority: Normal
-* Department: Unassigned
-* SLA: None
-* Assigned To: None
+- Priority: Normal
+- Department: Unassigned
+- SLA: None
+- Assigned To: None
 
 ### Ticket Configuration
 
