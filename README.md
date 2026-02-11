@@ -92,9 +92,13 @@ A qualified agent within the Online Banking department (Jane):
 
 ---
 
-# 🧾 Scenario 2: Adobe Upgrade Issue (Accounting Department)
+# Scenario 2: Adobe Upgrade Issue (Accounting Department)
 
 ### End-User Submission
+
+<p>
+<img width="853" height="497" alt="Screenshot RD46" src="https://github.com/user-attachments/assets/0a9d2526-6590-46bf-bbe3-ea215bab4393" />
+</p>
 
 Accounting reports that Adobe crashes after a recent update.
 
