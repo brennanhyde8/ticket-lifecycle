@@ -63,20 +63,32 @@ Because this issue impacts customers company-wide, the ticket is updated to:
 
 After routing to the Online Banking department:
 
-* Agents not assigned to that department lose visibility.
-* The ticket becomes inaccessible to unauthorized agents.
+- Agents not assigned to that department lose visibility.
+- The ticket becomes inaccessible to unauthorized agents.
 
 This demonstrates role-based security and department segmentation.
 
 ### Resolution (Jane)
 
+<p>
+<img width="853" height="497" alt="Screenshot RD43" src="https://github.com/user-attachments/assets/7690ceb5-aafa-43eb-bf93-2b26d310a545" />
+</p>
+
+<p>
+<img width="853" height="497" alt="Screenshot RD44" src="https://github.com/user-attachments/assets/dbedc3d2-7264-4286-9472-6bbe12c73d53" />
+</p>
+
+<p>
+<img width="853" height="497" alt="Screenshot RD45" src="https://github.com/user-attachments/assets/083b0bcf-4a91-4b10-9c03-13565f84c290" />
+</p>
+
 A qualified agent within the Online Banking department:
 
-* Investigates service outage
-* Coordinates with infrastructure teams
-* Restores application functionality
-* Documents root cause
-* Closes the ticket within SLA
+- Investigates service outage
+- Coordinates with infrastructure teams
+- Restores application functionality
+- Documents root cause
+- Closes the ticket within SLA
 
 ---
 
