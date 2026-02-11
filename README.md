@@ -22,28 +22,6 @@ You’ll simulate ticket creation, property assignment, department restrictions,
 - Working the Issue
 - Resolution
 
-# 🎫 Help Desk Ticket Workflow Lab
-
-**Simulating Real-World IT Support Using osTicket**
-
-This repository outlines a hands-on lab demonstrating how support tickets move through a help desk system using **osTicket**.
-
-The project walks through ticket creation, property configuration, SLA enforcement, department-based routing, access control restrictions, and final resolution from both the agent and administrative perspectives.
-
----
-
-# 📌 Project Overview
-
-This lab simulates real IT support operations by demonstrating:
-
-* End-user ticket submission
-* Agent review and classification
-* SLA assignment (Sev-A vs Sev-B)
-* Department-based permissions
-* Escalation and access restrictions
-* Ticket resolution and documentation
-
-The objective is to show how structured workflows improve accountability, response times, and service quality.
 
 ---
 
