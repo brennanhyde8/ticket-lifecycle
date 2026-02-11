@@ -29,6 +29,10 @@ You’ll simulate ticket creation, property assignment, department restrictions,
 
 ### End-User Submission
 
+<p>
+<img width="853" height="497" alt="Screenshot RD40" src="https://github.com/user-attachments/assets/2781a0a1-1b69-4be8-a79a-e54ac30345f1" />
+</p>
+
 A ticket is submitted reporting that the entire mobile and online banking platform is unavailable.
 
 ### Initial Agent Review (John)
