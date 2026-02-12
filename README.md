@@ -17,11 +17,21 @@ You’ll simulate ticket creation, property assignment, department restrictions,
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+This lab simulates real IT support operations by demonstrating:
 
+- End-user ticket submission
+
+- Agent review and classification
+
+- SLA assignment
+
+- Department-based permissions
+
+- Escalation and access restrictions
+
+- Ticket resolution and documentation
+
+The objective is to show how structured workflows improve accountability, response times, and service quality.
 
 ---
 
